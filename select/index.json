@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "過呼吸",
+  "base_artist": "Toc",
+  "createdAt": "2026-02-12T09:30:57.233449Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "過呼吸",
+      "artist": "TOC",
+      "has_synced": false,
+      "path": "select/pl_01_過呼吸_TOC.txt"
+    }
+  ]
+}
